@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-ghost-of-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Only Ghost Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-ghost-of-us/) |
+| **Get License** | [Commercial Licensing for Only Ghost Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-ghost-of-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your fingers slipping slow down my spine
+> A sweet intoxication, smoother than wine
+> We are swept in the wind, we are scattered like dust
+> Leaving nothing behind but the only ghost of us
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
