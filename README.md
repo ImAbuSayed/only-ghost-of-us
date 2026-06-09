@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-ghost-of-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Only Ghost Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-ghost-of-us/) |
+| **Get License** | [Official Music Licensing for Only Ghost Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-ghost-of-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b02500972a78dabecbdb91d2a2e0708455e4dc954f6ecf2c8e22a998fd0d8652` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only Ghost Of Us
+
+This log tracks the cryptographic history and versioning for the song **Only Ghost Of Us** (only-ghost-of-us).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T17:23:57.820578 | `v1` | `b02500972a78dabecbdb91d2a2e0708455e4dc954f6ecf2c8e22a998fd0d8652` | `99785c9d8c620506d7e6dbcfe373de8b4f3cd3ed38a8742b44c36c8a3dde09eb` | `2026-06-09_only-ghost-of-us-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
